@@ -1,0 +1,44 @@
+{
+  "name": "coinshootapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.0",
+    "@heroicons/react": "^1.0.1",
+    "@next-auth/firebase-adapter": "^0.1.2",
+    "@tailwindcss/forms": "^0.3.3",
+    "firebase": "^8.6.8",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.29.1",
+    "next": "^11.0.0",
+    "next-auth": "^3.27.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-firebase-hooks": "^3.0.4",
+    "react-firebaseui": "^5.0.2",
+    "react-google-recaptcha": "^2.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.0.4"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyraymege/coinShoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyraymege/coinShoot/issues"
+  },
+  "homepage": "https://github.com/kyraymege/coinShoot#readme"
+}
