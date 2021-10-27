@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    Yoru Firebase Key
+    Your Firebase Key
   };
 
   const app = !firebase.apps.length ? firebase.initializeApp(firebaseConfig) : firebase.app();
